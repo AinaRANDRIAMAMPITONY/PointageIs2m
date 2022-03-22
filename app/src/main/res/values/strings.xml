@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pointage Is2m</string>
+    <string name="scan">Scan</string>
+    <string name="history">Historique</string>
+    <string name="manual_input">Saisie</string>
+    <string name="synchronize">Synchroniser</string>
+    <string name="about">A propos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="saisie_manuel">Saisie manuel</string>
+    <string name="matricule">Matricule</string>
+    <string name="status">Status</string>
+    <string name="raison">Raison</string>
+    <string name="sens">Sens</string>
+    <string name="entr_e">Entrée</string>
+    <string name="sortie">Sortie</string>
+    <string name="horaire">Horaire</string>
+    <string name="date">Date</string>
+    <string name="heure">Heure</string>
+</resources>

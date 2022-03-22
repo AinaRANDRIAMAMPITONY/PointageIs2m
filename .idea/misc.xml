@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/layout/fragment_about.xml" value="0.12" />
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/layout/fragment_history.xml" value="0.22" />
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/layout/fragment_manual_input.xml" value="0.25" />
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/layout/fragment_scan.xml" value="0.12771739130434784" />
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/layout/fragment_synchronize.xml" value="0.25" />
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/layout/history_list_item.xml" value="0.33" />
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/menu/reason_menu.xml" value="0.1" />
+        <entry key="..\:/Projects/Android_P1_new/app/src/main/res/menu/tab_menu.xml" value="0.1" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/drawable/background.xml" value="0.1515" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/drawable/background1.xml" value="0.1705" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/drawable/background2.xml" value="0.1705" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/drawable/background3.xml" value="0.1515" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/drawable/wave.xml" value="0.1705" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_apropos.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_apropos2.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_apropos_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_authentification.xml" value="0.22" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_change_mdp.xml" value="0.1328125" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_deuxieme.xml" value="0.11623931623931624" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_histo.xml" value="0.11623931623931624" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_main.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_manuel.xml" value="0.22" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_premier.xml" value="0.1" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_quatrieme_sais.xml" value="0.11623931623931624" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_synchro.xml" value="0.11623931623931624" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_troisieme_scann.xml" value="0.11623931623931624" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_verification.xml" value="0.25" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/activity_version.xml" value="0.25" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/fragment_about.xml" value="0.28" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/fragment_history.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/fragment_manual_input.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/fragment_scan.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/fragment_synchronize.xml" value="0.25" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/history_list_item.xml" value="0.22" />
+        <entry key="..\:/Users/AINA RANDRIA/Documents/Downloads/Android_p1-master/app/src/main/res/layout/list_item.xml" value="0.1947463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
